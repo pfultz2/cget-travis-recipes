@@ -1,0 +1,1 @@
+http://releases.llvm.org/3.5.2/clang+llvm-3.5.2-x86_64-linux-gnu-ubuntu-14.04.tar.xz -X binary -H sha256:0290692714479c4b169e5f02408fc6d2d76f89e873aa04a795024ccde59ec482

@@ -1,0 +1,1 @@
+https://cmake.org/files/v3.0/cmake-3.0.2-Linux-i386.tar.gz -X binary -H sha256:fde6f0c9fab58a71c315cdd833cf0e5c077afcad74c32de1017568509d16bd51

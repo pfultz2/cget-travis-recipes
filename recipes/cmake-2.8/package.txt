@@ -1,0 +1,1 @@
+https://cmake.org/files/v2.8/cmake-2.8.12.2-Linux-i386.tar.gz -X binary -H sha256:3cd7277bc901b0ea1c213557f3cbae534fa727df9bdec559f60fa497fcbad0a9
